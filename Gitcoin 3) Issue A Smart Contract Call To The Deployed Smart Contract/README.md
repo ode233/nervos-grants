@@ -1,10 +1,47 @@
-## 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+## 3) Issue A Smart Contract Call To The Deployed Smart Contract
 
-### Accounts list
-![Accounts list](task_01_01.png?raw=true "Accounts list")
+### Console screenshot
+![Console](task_03_01.png?raw=true)
 
-### Link to the Layer 1 funded address
-https://explorer.nervos.org/aggron/address/ckt1qyqxsfpjswzzrzxc2zfl7x4huyhm3wxgtypsju6jxs
+### Transaction hash
+0x9fceae18f294a0209ee617d5d65602a8e9e6a945c9a654832909ffa74d384882
 
-### Console output after successfull submition of a deposit to Layer 2
-![Deposit L2](task_01_02.png?raw=true "Deposit L2")
+### Deployed contract address
+0x02Aa4181B746F64EEDf56781ea3CA284AE152216
+
+### ABI
+```
+[
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+]
+```
