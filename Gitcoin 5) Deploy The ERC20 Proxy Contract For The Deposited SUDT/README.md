@@ -1,10 +1,13 @@
-## 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+## 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
-### Accounts list
-![Accounts list](task_01_01.png?raw=true "Accounts list")
+### Screenshot of the console output after deploying smart contract
+![Console](task_05_01.png?raw=true)
 
-### Link to the Layer 1 funded address
-https://explorer.nervos.org/aggron/address/ckt1qyqxsfpjswzzrzxc2zfl7x4huyhm3wxgtypsju6jxs
+### Address of the deployed ERC20 Proxy Contract
+0x5dfd5C0feEF46133e4e14BbE4a87ecE65De9C255
 
-### Console output after successfull submition of a deposit to Layer 2
-![Deposit L2](task_01_02.png?raw=true "Deposit L2")
+### Screenshot of the console output immediately after checking SUDT balance.
+![Console](task_05_02.png?raw=true)
+
+### The Ethereum address that was checked
+0x1b28003e15fc5E2851369b61b20A50286BBB21B2
