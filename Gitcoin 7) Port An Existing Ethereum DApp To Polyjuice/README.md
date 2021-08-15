@@ -1,10 +1,10 @@
-## 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+## 7) Port An Existing Ethereum DApp To Polyjuice
 
 ### Screenshots or video of your application running on Godwoken.
 ![Screenshots](task_07_01.png?raw=true "Screenshots")
 
 ### Link to the GitHub repository with your application which has been ported to Godwoken.
-https://explorer.nervos.org/aggron/address/ckt1qyqxsfpjswzzrzxc2zfl7x4huyhm3wxgtypsju6jxs
+https://github.com/ody123/nervos-grants/tree/master/Gitcoin%207)%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/drawing
 
 ### If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. 
 transaction hash: 0x2a645e72ea4d1c5a5e17f29bfc8f1a5dde28a08944790aad58a249bcf36288e6  
