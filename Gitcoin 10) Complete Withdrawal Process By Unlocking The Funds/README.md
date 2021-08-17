@@ -1,10 +1,10 @@
-## 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+## 10) Complete Withdrawal Process By Unlocking The Funds
 
-### Accounts list
-![Accounts list](task_01_01.png?raw=true "Accounts list")
+### A screenshot of the console output immediately after running the "unlock" command.
+![Accounts list](task_10_01.png?raw=true "Accounts list")
 
-### Link to the Layer 1 funded address
-https://explorer.nervos.org/aggron/address/ckt1qyqxsfpjswzzrzxc2zfl7x4huyhm3wxgtypsju6jxs
+### The Ethereum address that you've used for your Layer 2 account.
+0x1b28003e15fc5E2851369b61b20A50286BBB21B2  
 
-### Console output after successfull submition of a deposit to Layer 2
-![Deposit L2](task_01_02.png?raw=true "Deposit L2")
+### The Nervos Layer 1 address associated with the private key passed to "unlock" command.
+ckt1qyqxsfpjswzzrzxc2zfl7x4huyhm3wxgtypsju6jxs
